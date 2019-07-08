@@ -14,7 +14,9 @@ nav.pinned {
     transition: 0.3s ease background-color;
     -webkit-transition: 0.2s ease background-color;
 }
-
+img {
+  border-radius: 50%;
+}
 .navbar-wrapper {
     height: 3rem;
 }
